@@ -1,1 +1,2 @@
 32 buttons
+64 buttons
